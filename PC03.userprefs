@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameOver\GameOverController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Common\Looper.cs" Line="18" Column="36" />
+      <File FileName="Assets\Scripts\Menu\MenuController.cs" Line="14" Column="42" />
+      <File FileName="Assets\Scripts\Chooser\ChooserController.cs" Line="27" Column="42" />
+      <File FileName="Assets\Scripts\Game\EnemySpawner.cs" Line="25" Column="12" />
+      <File FileName="Assets\Scripts\Game\CarSpawner.cs" Line="13" Column="29" />
+      <File FileName="Assets\Scripts\Game\CarController.cs" Line="44" Column="4" />
+      <File FileName="Assets\Scripts\Game\HudController.cs" Line="32" Column="24" />
+      <File FileName="Assets\Scripts\GameOver\GameOverController.cs" Line="15" Column="51" />
+      <File FileName="Assets\Scripts\Selection\SelectionController.cs" Line="18" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
